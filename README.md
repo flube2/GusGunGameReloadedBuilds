@@ -23,10 +23,10 @@ To get the game to work:
 	- Click "Extract".
 
 3. Replace pointer (1KB) with instance of file (50-150MB).
-	- Navigate to Windows\x64\WindowsNoEditor\Engine\Binaries in the extracted folder.
+	- Navigate to Windows\x64\WindowsNoEditor\Engine\Binaries\Win64 in the extracted folder.
 	- Go to "https://github.com/flube2/GusGunGameReloadedBuilds/blob/master/Windows/x64/WindowsNoEditor/Engine/Binaries/Win64/UE4Game.exe" via web browser.
 	- Click "Download".
-	- Set save location as Windows\x64\WindowsNoEditor\Engine\Binaries, click "Save", and replace the existing file.
+	- Set save location as Windows\x64\WindowsNoEditor\Engine\Binaries\Win64, click "Save", and replace the existing file.
 	- Verify file size has changed.
 
 4. Play the game.
