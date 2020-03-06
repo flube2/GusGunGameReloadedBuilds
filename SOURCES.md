@@ -4,13 +4,18 @@ Developed with Unreal Engine 4
 
 **Icon**  
 *PNG File* - Frank Lubek via Microsoft Word  
+<<<<<<< HEAD
 *ICO File* - Converted using Convertico.com
 
+=======
+*ICO File* - Frank Lubek - Converted using Convertico.com
+>>>>>>> d61c093feda6878f4367b442658a68605ebada6d
 
 
 
 ## Menus and UI
 
+<<<<<<< HEAD
 **""Splashscreens"**
 *UE Logo* - "Unreal_Engine_Horiz_White.png" - Epic Games (with their permission)
 *LEGaming Logo* - "LE_LogoPic.png" - Frank Lubek via MS Word
@@ -38,6 +43,45 @@ Developed with Unreal Engine 4
 
 
 
+=======
+**Splashscreens**    
+*UE Logo* - "Unreal_Engine_Horiz_White.png" - Epic Games (with their permission)  
+*LEGaming Logo* - "LE_LogoPic.png" - Frank Lubek via MS Word
+  
+
+**Main Menu**  
+*Background Image* - "06_Pole_Explosion.png" - Frank Lubek  
+*Background Music* - "sunsai__menu-background-music.wav" - https://freesound.org/people/Sunsai/sounds/415805/  
+
+
+**Menu Buttons**  
+*Background* - "ButtonBackground.png" - Frank Lubek via Paint and MS Word  
+*Hover Sound Clip* - "short-click-snap-perc.wav" - waveplay. - https://freesound.org/people/waveplay./sounds/399934/   
+*Pressed Sound Clip* - "UI-Confirmation-Alert-C3.wav" - InspectorJ (www.jshaw.co.uk) - https://freesound.org/people/InspectorJ/sounds/403017/   
+
+
+**Score UI**   
+(display score and win message)  
+*Widget Blueprints and Layout* - WBP_UI and WBP_UI_Win - Frank Lubek  
+
+
+**Video References**  
+*UI* - Virtus Learning Hub / Creative Tutorials - https://youtu.be/U_DY1lmHbLc   
+*Pause Menu* - CodeViper - https://youtu.be/gSt-7jY0t80
+
+
+
+## Core
+
+**Game Mode**  
+*Blueprints* - G3RGameMode and G3RMenuGameMode - Frank Lubek 
+
+
+**Player State**  
+*Blueprints* - G3RPlayerState - Frank Lubek
+
+
+>>>>>>> d61c093feda6878f4367b442658a68605ebada6d
 
 ## Level 1
 
@@ -80,6 +124,7 @@ https://forums.unrealengine.com/unreal-engine/marketplace/125546-nature-material
 *Material* - M_Ground_Grass - Unreal Starter Assets  
 *Transform, Colliders, etc.* - Unreal Primitive Components  
 
+<<<<<<< HEAD
 
 **Game Mode** (score implementation, win condition, level restart)  
 *Blueprints* - BP_GameMode - Frank Lubek  
@@ -92,3 +137,8 @@ https://forums.unrealengine.com/unreal-engine/marketplace/125546-nature-material
 
 
 
+=======
+
+**Level Design**  
+"Replicated" (with  changes) from (2017) Gus's Gun Game - Frank Lubek  
+>>>>>>> d61c093feda6878f4367b442658a68605ebada6d
