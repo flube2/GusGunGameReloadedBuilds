@@ -1,4 +1,4 @@
-# GusGunGameReloaded Sources/Attributions
+# GusGunGameReloadedBuilds Sources/Attributions
 
 Developed with Unreal Engine 4
 
@@ -47,8 +47,12 @@ Developed with Unreal Engine 4
 *Blueprints* - G3RPlayerState - Frank Lubek
 
 
+**Player Controller**  
+*Blueprints* - G3RPlayerController - Frank Lubek
 
-## Level 1
+
+
+## Original Level
 
 **Yellow Cube**  
 *Material* - M_LaserPointer-Core-GGGR - Unreal Starter Assets (increased opacity on M_LaserPointer-Core)  
@@ -91,9 +95,35 @@ https://forums.unrealengine.com/unreal-engine/marketplace/125546-nature-material
 
 
 **Level Design**  
-"Replicated" (with  changes) from (2017) Gus's Gun Game - Frank Lubek  
+"Replicated" (with minor changes) from (2017) Gus's Gun Game - Frank Lubek  
 
 
 
+## Level Selector
 
 
+**Trees** - blenderblock - https://www.turbosquid.com/FullPreview/Index.cfm/ID/1218839
+
+
+**Ground**   
+*Material* - M_Ground_Grass - Unreal Starter Assets  
+*Transform, Colliders, etc.* - Unreal Primitive Components 
+
+
+**Wooden Tower**  
+*Material* - M_Wood_Pine - Unreal Starter Assets
+*Design* - Frank Lubek
+
+
+**Dartboard**  
+*Base (Cylinder)* - Black - Frank Lubek
+*Wedges (Cones)* - Black and Wheat - Frank Lubek
+*Bullseyes (Cylinders)* - Forest Green and Dark Red - Frank Lubek
+*Blueprints* - BP_Dartboard and BP_Wedge - Frank Lubek
+
+
+**Save and Load Buttons**  
+*Materials* - Save_Mat and Load_Mat - Frank Lubek via Microsoft Word
+
+
+**Lighting Adjustments** - Frank Lubek
