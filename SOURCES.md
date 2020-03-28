@@ -52,19 +52,23 @@ Developed with Unreal Engine 4
 
 
 
-## Original Level
+## Multi Level
+
+**Rotations**
+*Blueprints* - BP_RotateParent - Frank Lubek
+
 
 **Yellow Cube**  
 *Material* - M_LaserPointer-Core-GGGR - Unreal Starter Assets (increased opacity on M_LaserPointer-Core)  
 *Transforms, Colliders, etc.* - Frank Lubek   
-*Blueprints* - BP_YellowCube and BP_RotateYellowCube - Frank Lubek   
+*Blueprints* - BP_YellowCube - Frank Lubek   
 *Audio Clip on Contact* - Invalid_Action - Unreal Starter Assets   
 
 
 **Red Cube (Indestructible)**  
 *Material* - LaserPointerMaterial - Unreal Starter Assets  
 *Transform, Colliders, etc.* - Frank Lubek  
-*Blueprints* - BP_RedCube and BP_RotateRedCube - Frank Lubek  
+*Blueprints* - BP_RedCube - Frank Lubek  
 *Audio Clip on Contact* - CompileFailed - Unreal Starter Assets  
 
 
@@ -75,6 +79,22 @@ https://forums.unrealengine.com/unreal-engine/marketplace/125546-nature-material
 *Blueprints* - BP_SphereTarget - Frank Lubek  
 *Audio Clip on Contact* - Invalid_Action - Unreal Starter Assets  
 
+
+**Black Cube**
+*Material* - Black - Frank Lubek
+*Transforms, Colliders, etc.* - Frank Lubek
+*Blueprints* - BP_BlackCube - Frank Lubek
+
+**Spawn Points**
+*Blueprints* - BP_SpawnPoint - Frank Lubek
+
+
+**Pick-Up Spawn Manager**
+*Blueprints* - BP_PickUpSpawnManager - Frank Lubek
+
+
+
+## Original Level
 
 **White Pole** (Interactable via projectile only)  
 // No materials applied  
@@ -101,7 +121,6 @@ https://forums.unrealengine.com/unreal-engine/marketplace/125546-nature-material
 
 ## Level Selector
 
-
 **Trees** - blenderblock - https://www.turbosquid.com/FullPreview/Index.cfm/ID/1218839
 
 
@@ -127,3 +146,29 @@ https://forums.unrealengine.com/unreal-engine/marketplace/125546-nature-material
 
 
 **Lighting Adjustments** - Frank Lubek
+
+
+**Level Design** - Frank Lubek
+
+
+
+## Level 1: Field Spawn Factory
+
+**Trees** - blenderblock - https://www.turbosquid.com/FullPreview/Index.cfm/ID/1218839
+
+
+**Ground**   
+*Material* - M_Ground_Grass - Unreal Starter Assets  
+*Transform, Colliders, etc.* - Unreal Primitive Components 
+
+
+**Wooden Tower**  
+*Material* - M_Wood_Pine - Unreal Starter Assets
+*Design* - Frank Lubek
+
+
+**Tree Trunks**
+*Material* - M_Wood_Oak - Unreal Starter Assets  
+
+
+**Level Design** - Frank Lubek
