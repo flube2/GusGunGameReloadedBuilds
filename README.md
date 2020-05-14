@@ -36,7 +36,9 @@ To get the game to work:
 	- Set save location as Windows\x64\WindowsNoEditor, click "Save", and replace the existing file.
 	- Verify file size has changed.
 
-5. Play the game.
+5. Repeat for "https://github.com/flube2/GusGunGameReloadedBuilds/blob/master/Windows/x64/WindowsNoEditor/GusGunGameReloaded/Content/ExternalAssetPacks/Materials/L2SkyBoxCubeMap.uexp" as well for Level 2 to work.
+
+6. Play the game.
 	- Navigate to Windows\x64\WindowsNoEditor in the extracted folder.
 	- Double click the .exe file.
 
