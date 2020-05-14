@@ -1,6 +1,6 @@
 Builds for Gus's Gun Game Reloaded (Built with Unreal Engine 4.24)
 
-**NOTE:** A ***required*** file (2 files as of v2.0)is tracked by Git LFS, and is a non-functional pointer after downloading repo as a zip file.
+**NOTE:** A ***required*** file (3 files as of v4.0) is tracked by Git LFS, and is a non-functional pointer after downloading repo as a zip file.
 In order for the game to work that pointer has to be replaced by the actual file. Either clone the repo or **See Step 3 below**.
 
 **NOTE:** You could also clone the repo to your PC and build/package yourself.  
